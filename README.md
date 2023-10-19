@@ -1,2 +1,2 @@
 # demo-repo
-Demo purposes.
+Demo purposes description.
